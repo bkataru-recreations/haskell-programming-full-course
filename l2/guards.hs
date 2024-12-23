@@ -10,4 +10,4 @@ bookCategory pages
 
 main = do
   putStrLn "The category of your book is: "
-  print (bookCategory 100000)
+  print (bookCategory 1000)
